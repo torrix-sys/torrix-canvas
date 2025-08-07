@@ -1,6 +1,6 @@
 # Torrix Canvas
 
-Torrix Canvas is a conceptional/experimental Desktop Environment, which is based on Torrix network.
+Torrix Canvas is a conceptual/experimental Desktop Environment, which is based on Torrix network.
 
 Basically, the whole Torrix Canvas system is based on the web-based view.
 
