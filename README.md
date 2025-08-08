@@ -37,5 +37,3 @@ Also, some might considering implementing WebVR feature.
 With that, people would be able to distribute software like Torrix Game, or Torrix Site.
 
 It means that software developers can expect getting paid more Bitcoin with Lightning Network, not only hoping other people's voluntary donation.
-
-So, ideally, people can already expect the best development environment with the Torrix System, but with Torrix Canvas, they can even expect it to the 'perfect' level.
